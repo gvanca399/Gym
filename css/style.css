@@ -1,0 +1,94 @@
+
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url("../image/girl.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+li {
+    display: inline-block;
+    padding-right: 45px;
+    padding-left: 45px;
+}
+ul {
+    display: inline-block;
+    float: right;
+    clear: both;
+    padding: 30px 1px 30px 50px;
+    background-color:#fcd60093 ;
+    width: 890px;
+    height: 95px;
+}
+.burgericon {
+    margin: 25px;
+    display:inline-block;
+    padding:15px;
+    border-radius:50%;
+    background-color: #111112ce;
+    margin-top: 38px;
+    margin-left:30px ;
+}
+.icon {
+    width: 20px;
+    height: 2px;
+    background-color: white;
+    margin: 6px 0;
+}
+.container h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 84px;
+    font-weight: bold;
+    color:white ;
+    margin-bottom: 40px;
+}
+.container p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 28px ;
+font-weight: bold;
+color: white;
+margin-bottom: 50px;
+}
+.container a {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:32px;
+    font-weight: bold;
+    border: 1px solid white;
+    padding:15px;
+}
+.container {
+    margin-top:270px ;
+    margin-bottom: 160px;
+    margin-left: 70px;
+}
+svg {
+    margin-left: 70px;
+
+
+}
+.socMed {
+    display: inline-block;
+    margin-left: 170px;
+    margin-bottom: 46px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color:white ;
+    font-size: 25px;
+}
+a {
+    color:white ;
+    font-size: 20px;
+    font-weight: bold;
+}
+.direction {
+    display: inline-block;
+    margin-left: 210px;
+    margin-bottom: 46px;
+}
+.right {
+    padding-left: 42px;
+}
